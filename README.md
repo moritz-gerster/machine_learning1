@@ -38,3 +38,6 @@ The repository is organized into weekly folders (e.g., `Week01`, `Week02`, ...) 
 
 
 > This coursework is based on my own work, collaborative discussions within my homework group, and public class materials. Redistribution or reuse of these materials for educational or institutional use is not permitted.
+
+---
+👉 Also see: [Machine Learning 2 – Master's Course](https://github.com/moritz-gerster/machine_learning2)
